@@ -8,6 +8,7 @@ TL;DR just take me to [installation.](#3)
 2. [Why I Need?](#1)
 3. [FOSS!](#2)
 4. [Installation](#3)
+5. [In-App Screenshot](#4)
 
 <h2 id="0">What is Docx2Html?</h2>
 
@@ -37,3 +38,7 @@ On Windows:
 2. Copy files on Windows directory in this repository to folder you created.
 3. Right click Docx2Html.exe and click send > Desktop (Create Shortcut)
 4. Optionally you can put a copy to *"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\"* to reach it from start menu.
+
+<h2 id="4">In-App Screenshot</h2>
+   
+![App image](https://raw.githubusercontent.com/Elagoht/Docx2Html/main/docx2html-inapp.png)
