@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Docx2Html
+Comment=Stylized Word document to pure html to use in pages that already use css.
+Exec=docx2html
+Icon=/usr/share/Docx2Html/docx2html.png
+Terminal=false
+Type=Application
+Categories=Utility
+Keywords=docx, html, convertor, pure, stylized, style, css, microsoft word
