@@ -9,6 +9,7 @@ TL;DR just take me to [installation.](#3)
 3. [FOSS!](#2)
 4. [Installation](#3)
 5. [In-App Screenshot](#4)
+6. [Known Issues](#5)
 
 <h2 id="0">What is Docx2Html?</h2>
 
@@ -42,3 +43,6 @@ On Windows:
 <h2 id="4">In-App Screenshot</h2>
    
 ![App image](https://raw.githubusercontent.com/Elagoht/Docx2Html/main/docx2html-inapp.png)
+
+<h2 id="5">Known Issues</h2>
+If the input file contains a space character, the program will crash.
